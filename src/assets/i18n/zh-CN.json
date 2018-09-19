@@ -1,0 +1,114 @@
+{
+  "top": {
+    "top-1": "首页",
+    "top-2": "节点",
+    "top-3": "区块",
+    "top-4": "交易"
+  },
+  "radio": {
+    "radio-1": "在线",
+    "radio-2": "离线"
+  },
+  "home": {
+    "home-1": "当前区块高度",
+    "home-2": "上一个块出块速度",
+    "home-3": "节点数量",
+    "home-4": "交易数量",
+    "home-5": "交易量折线图",
+    "home-6": "交易笔数",
+    "home-7": "交易金额",
+    "home-8": "区块",
+    "home-9": "查看全部",
+    "home-10": "矿工",
+    "home-11": "出块速度",
+    "home-12": "交易数量",
+    "home-13": "前",
+    "home-14": "交易",
+    "home-15": "TxHash",
+    "home-16": "交易对",
+    "home-17": "交易值",
+    "home-18": "矿工费"
+  },
+  "node-list": {
+    "node-1": "节点",
+    "node-2": "总节点数",
+    "node-3": "在线节点数",
+    "node-4": "主机名",
+    "node-5": "Leader",
+    "node-6": "状态"
+  },
+  "node-detail": {
+    "node-detail-1": "节点详情",
+    "node-detail-2": "主机名",
+    "node-detail-3": "Leader",
+    "node-detail-4": "状态",
+    "node-detail-5": "被换掉次数",
+    "node-detail-6": "Watcher",
+    "node-detail-7": "链",
+    "node-detail-8": "交易高度"
+  },
+  "block-list": {
+    "block-1": "区块",
+    "block-2": "总区块数",
+    "block-3": "请输入块高度",
+    "block-4": "块高度",
+    "block-5": "交易数量",
+    "block-6": "矿工",
+    "block-7": "出块时间",
+    "block-8": "出块速度",
+    "block-9": "每页显示",
+    "block-10": "条",
+    "block-11": "第",
+    "block-12": "页",
+    "block-13": "共",
+    "block-14": "暂无数据"
+  },
+  "block-detail": {
+    "block-detail-1": "区块详情",
+    "block-detail-2": "块高度",
+    "block-detail-3": "交易数量",
+    "block-detail-4": "出块时间",
+    "block-detail-5": "块大小",
+    "block-detail-6": "矿工",
+    "block-detail-7": "交易",
+    "block-detail-8": "交易时间",
+    "block-detail-9": "转出链",
+    "block-detail-10": "转入链",
+    "block-detail-11": "交易值",
+    "block-detail-12": "矿工费",
+    "block-detail-13": "暂无数据",
+    "block-detail-14": "加载更多"
+  },
+  "transaction-list": {
+    "transaction-1": "交易",
+    "transaction-2": "总交易数",
+    "transaction-3": "请输入TXID/块高度",
+    "transaction-4": "区块高度",
+    "transaction-5": "交易时间",
+    "transaction-6": "转出链",
+    "transaction-7": "转入链",
+    "transaction-8": "交易值",
+    "transaction-9": "矿工费",
+    "transaction-10": "每页显示",
+    "transaction-11": "条",
+    "transaction-12": "第",
+    "transaction-13": "页",
+    "transaction-14": "共",
+    "transaction-15": "暂无数据"
+
+  },
+  "transaction-detail": {
+    "transaction-detail-1": "交易详情",
+    "transaction-detail-2": "网关TxHash",
+    "transaction-detail-3": "交易状态",
+    "transaction-detail-4": "已确认",
+    "transaction-detail-5": "交易时间",
+    "transaction-detail-6": "前",
+    "transaction-detail-7": "交易值",
+    "transaction-detail-8": "区块高度/确认数",
+    "transaction-detail-9": "矿工费",
+    "transaction-detail-10": "网关服务费",
+    "transaction-detail-11": "付款",
+    "transaction-detail-12": "收款"
+  }
+}
